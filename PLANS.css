@@ -1,0 +1,44 @@
+img{
+			margin:50px;
+			margin-top: 0px;
+		}
+		#img1{
+			margin-left: 10px;
+			margin-right: 20px;
+		}
+		#img1:hover,#img2:hover{
+			border: 2px solid black;
+		}
+		#img2{
+			margin-left: 10px;
+		}
+		h1{
+			margin: 0px;
+			padding: 0px;
+			padding-left: 400px;
+			margin-top: 100px;
+			margin-bottom: 10px;
+			text-underline-position: under;
+			color: #242424;
+			font-size: 40px;
+			font-family: 'Roboto Condensed', sans-serif;
+			font-weight: 100;
+		}
+		u{
+
+			color: white;
+			width: 10px;
+		}
+		hr{
+			margin: 0px;
+			padding: 0px;
+			margin-bottom:80px;
+			background-color:white;
+			height: 0px;
+			width: 70px;
+			border: 2px solid white; 
+			margin-left: 430px;
+
+		}
+
+		

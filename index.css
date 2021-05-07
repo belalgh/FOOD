@@ -1,0 +1,49 @@
+.page{
+			color: white;
+			margin: 30px;
+		}
+		.icon{
+			margin-right: 20px;
+		}
+		#down{
+			margin-left:157px;
+			margin-right: 0px;
+			margin-right:0px;
+		}
+		#downImage{
+			position: relative;
+			width:25px;
+			height:50px;
+			top: 20px;
+		}
+		.yelBut{
+			width: 150px;
+			display: inline;
+			 color: white;
+			 border: 10px solid #F8A22F;
+			 background-color: #F8A22F;
+			 border-radius:30px;
+			 border-color:#F8A22F; 
+		}
+		body{
+			margin: 0px;
+			padding: 0px;
+			padding-left: 60px;
+		}
+		div a{
+			text-decoration: none;
+		}
+		.page,.yelBut{
+			font-weight: bold;
+		}
+		#hr1{
+			margin: 0px;
+			padding: 0px;
+			margin-left: 25px;
+			margin-top: 5px;
+			width: 60px;
+			height: 2.5px;
+			border: 0px;
+			background-color: #F8A22F;
+
+		}
